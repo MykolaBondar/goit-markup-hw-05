@@ -1,2 +1,2 @@
-# goit-markup-hw-05
-test
+# github-tutorial
+Training repository
